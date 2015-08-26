@@ -1,0 +1,28 @@
+body {
+	color: #FFFFFF;
+	background: url("http://ordinaryfaith.net/wp-content/uploads/2015/03/o-FINGER-PAINTING-facebook.jpg");
+	background-size: cover;
+	font-family: "Garamond";
+}
+
+h1 {text-align: center;
+	color: #FFFFFF;
+	font-size: 75px;
+	font-weight: bolder;
+
+}
+
+#slogan p {text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	font-style: italic;
+}
+
+#generalinfo p{font-size: 25px
+}
+
+#offerings p{font-size: 25px;}
+
+#list ul{font-size: 25px;}
+
+#contact p{text-align: center;}
