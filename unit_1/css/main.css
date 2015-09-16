@@ -8,16 +8,16 @@ font-family: 'Open Sans', sans-serif;
 
 h1 {text-align: center;
 	color: #FFFFFF;
-font-family: 'Henny Penny', cursive;
- font-size: 75px;
 	font-weight: bolder;
+	font-family: 'Amatic SC', cursive;
+	font-size: 80px;
 
 }
 
 #slogan p {text-align: center;
 	font-weight: bold;
 	font-size: 45px;
-font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 #generalinfo p{font-size: 25px;
